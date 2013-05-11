@@ -1,0 +1,4 @@
+kassa
+=====
+
+ticket kassa
